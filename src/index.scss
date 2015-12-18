@@ -1,0 +1,22 @@
+:global {
+  html, body {
+    font-size: 13px;
+    height: 100%;
+    width: 100%;
+  }
+
+  * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-family: "Arial", sans-serif;
+  }
+
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: white;
+    overflow: hidden;
+    height: 100%;
+  }
+}

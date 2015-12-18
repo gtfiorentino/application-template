@@ -1,0 +1,6 @@
+api
+dist
+modules
+src/vendor/**
+**/node_modules
+**/webpack*.config.js
